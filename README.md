@@ -1,5 +1,9 @@
 # 🚀 Fawry Quantum Internship Challenge 3 — E-commerce System
 
+![2](https://github.com/user-attachments/assets/0c28de22-3cc1-4665-808c-a07ee9fc1fae)
+![1](https://github.com/user-attachments/assets/6c5dcb78-fab7-4887-b124-582d83624405)
+
+
 This project is my solution for the **Fawry Rise Journey — Full Stack Development Internship Challenge**.
 ---
 
